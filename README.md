@@ -19,7 +19,7 @@ Docker container for building [LineageOS](https://lineageos.org/) (formerly know
 
 ### TLDR
 
-**Note**: Remember that LineageOS is a huge project. It will consume a large amount of disk space (~80 GB).
+**Note**: Remember that RockPro64 is a huge project. It will consume a large amount of disk space (~80 GB).
 
 ```shell
 # pass required env variables
