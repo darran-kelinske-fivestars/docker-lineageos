@@ -46,11 +46,14 @@ RUN set -ex ;\
           libwxgtk3.0-dev \
           libxml2 \
           libxml2-utils \
+	  lunzip \
           lzop \
           pngcrush \
+	  python-dev \
           rsync \
           schedtool \
           squashfs-tools \
+	  swig \
           xsltproc \
           zip \
           zlib1g-dev \
