@@ -76,8 +76,7 @@ RUN set -ex ;\
           ;\
     rm -rf /var/lib/apt/lists/*
     
- RUN set -ex ;\
-    pip install pycrypto;
+RUN pip install pycrypto;
 
 # run config in a seperate layer so we cache it
 RUN set -ex ;\
