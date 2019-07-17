@@ -61,6 +61,7 @@ RUN set -ex ;\
           # for git-repo from google
           python \
 	  python-pip \
+	  python-setuptools \
           # for ps command
           procps \
           # no less on debian *gasp!*
