@@ -1,6 +1,6 @@
 # docker-rockpro64
 
-Docker container for building [LineageOS](https://lineageos.org/) (formerly known as CyanogenMod).
+Docker container for building Android for the RockPro64
 
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
