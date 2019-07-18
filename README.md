@@ -23,13 +23,13 @@ $ docker run --rm --privileged \
   -e GIT_USER_NAME=jfloff \
   -e GIT_USER_EMAIL=jfloff@inesc-id.pt \
   -e DEVICE_CODENAME=klte \
-  -ti jfloff/lineageos lineageos init build
+  -ti darrank/docker-rockpro64
 
 # or pass a custom .env file
 $ docker run --rm --privileged \
   -v "$(pwd)/android":/home/lineageos \
   --env-file custom.env
-  -ti jfloff/lineageos lineageos init build
+  -ti darrank/docker-rockpro64
 ```
 
 
